@@ -1,0 +1,63 @@
+{
+  "pages":[
+    "pages/dayinji/dayinji",
+    "pages/yinshuiji/yinshuiji",
+    "pages/zixishi/zixishi",
+    "pages/kafeiji/kafeiji",
+    "pages/zidongshouhuoji/zidongshouhuoji"
+  ],
+  
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "你自己定",
+    "navigationBarTextStyle":"black"
+  },
+    "tabBar":{
+    "list":[
+      {
+        "pagePath": "pages/dayinji/dayinji",
+        "iconPath":"icon/打印机 .png",
+        "selectedIconPath":"icon/打印机 (2).png",
+        "text": "打印机"
+       },
+       {
+        "pagePath":"pages/zixishi/zixishi",
+        "iconPath":"icon/教室.png",
+        "selectedIconPath":"icon/教室(1).png",
+        "text": "通宵&充电桩"
+       },
+       {
+        "pagePath":"pages/yinshuiji/yinshuiji",
+        "iconPath":"icon/饮水机.png",
+        "selectedIconPath":"icon/饮水机 (1).png",
+        "text": "饮水机"
+       },
+       {
+        "pagePath":"pages/zidongshouhuoji/zidongshouhuoji",
+        "iconPath":"icon/自动贩卖机.png",
+        "selectedIconPath":"icon/自动贩卖机(1).png",
+        "text": "自动售货机"
+       },
+       {
+        "pagePath":"pages/kafeiji/kafeiji",
+        "iconPath":"icon/咖啡机.png",
+        "selectedIconPath":"icon/咖啡机(1).png",
+        "text": "咖啡机"
+       }
+       
+    ],
+    "selectedColor": "#000000"
+   
+  },
+  
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "permission": {
+    "scope.userLocation": {
+      "desc": "您的位置仅在小程序使用期间调用" 
+    }
+  }
+  
+} 
+
