@@ -1,5 +1,7 @@
 # CaiGouShiTu
+
 这是一个寻找校园资源的微信小程序，实际体验请扫下图小程序码
+<img src="https://user-images.githubusercontent.com/73621267/111025289-18822600-841e-11eb-8072-60dd7ccda81e.png" width="500">
 ![image](https://user-images.githubusercontent.com/73621267/111025289-18822600-841e-11eb-8072-60dd7ccda81e.png)
 它把西浦校园中的打印机、饮水机、咖啡机等位置标注出来，方便西浦学生和教职工寻找
 ![image](https://user-images.githubusercontent.com/73621267/111025184-8417c380-841d-11eb-934c-098f8580d88e.png)
